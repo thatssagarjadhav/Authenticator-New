@@ -119,7 +119,7 @@
  	<repositories>
    		<repository>
      			<id>IRIS</id>
-     			<url>http://65.0.94.230:8081/repository/TEST/</url>
+     			<url>http://65.0.26.199:8081/repository/TEST/</url>
    		</repository>
  	</repositories>
 	<build>
